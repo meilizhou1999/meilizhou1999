@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @meilizhou1999
-- 👀 I’m interested in Defi NFT
+- 👋 Hi, I’m Fredhan
+- 👀 I’m interested in NFT & defi
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on nft project founder
 - 📫 How to reach me ...https://twitter.com/choupipi3
